@@ -1369,11 +1369,11 @@
                 }, [a("a", {
                     staticClass: "tag is-dark",
                     attrs: {
-                        href: "https://github.com/rkafp/gindex-theme"
+                        href: "https://idnexus.net"
                     }
-                }, [e._v("goindex-theme-idnx")]), a("span", {
+                }, [e._v("IDNEXUS NETWORK")]), a("span", {
                     staticClass: "tag is-light"
-                }, [e._v(" MIT "), a("span", {
+                }, [e._v(" Aicirou "), a("span", {
                     staticClass: "icon"
                 }, [a("i", {
                     staticClass: "fa fa-github"
