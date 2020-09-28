@@ -167,7 +167,7 @@
         return s.d(t, "a", t), t
     }, s.o = function(e, t) {
         return Object.prototype.hasOwnProperty.call(e, t)
-    }, s.p = "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.10/dist/", s.oe = function(e) {
+    }, s.p = "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.11/dist/", s.oe = function(e) {
         throw console.error(e), e
     };
     var u = window["webpackJsonp"] = window["webpackJsonp"] || [],
@@ -1049,7 +1049,7 @@
             i = a.n(o),
             c = a("c276"),
             s = a("60bb"),
-            u = new i.a("gindex-".concat("2.0.10")),
+            u = new i.a("gindex-".concat("2.0.11")),
             d = r()(u);
 
         function l(e) {
@@ -1147,18 +1147,18 @@
                     NODE_ENV: "production",
                     VUE_APP_I18N_LOCALE: "zh-chs",
                     VUE_APP_I18N_FALLBACK_LOCALE: "en",
-                    VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.10/dist/",
-                    VUE_APP_VERSION: "2.0.10",
+                    VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.11/dist/",
+                    VUE_APP_VERSION: "2.0.11",
                     VUE_APP_G2INDEX_VERSION: "1.1.2",
-                    BASE_URL: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.10/dist/"
+                    BASE_URL: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.11/dist/"
                 }).VUE_APP_API ? Object({
                     NODE_ENV: "production",
                     VUE_APP_I18N_LOCALE: "zh-chs",
                     VUE_APP_I18N_FALLBACK_LOCALE: "en",
-                    VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.10/dist/",
-                    VUE_APP_VERSION: "2.0.10",
+                    VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.11/dist/",
+                    VUE_APP_VERSION: "2.0.11",
                     VUE_APP_G2INDEX_VERSION: "1.1.2",
-                    BASE_URL: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.10/dist/"
+                    BASE_URL: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.11/dist/"
                 }).VUE_APP_API : ""
             });
         c.interceptors.request.use((function(e) {
@@ -1435,18 +1435,18 @@
                         n = {
                             expires: 1
                         };
-                    Object.assign(n, a), r.a.set("gindex-".concat("2.0.10", "-").concat(e), t, n)
+                    Object.assign(n, a), r.a.set("gindex-".concat("2.0.11", "-").concat(e), t, n)
                 },
                 get: function() {
                     var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "default";
-                    return r.a.get("gindex-".concat("2.0.10", "-").concat(e))
+                    return r.a.get("gindex-".concat("2.0.11", "-").concat(e))
                 },
                 getAll: function() {
                     return r.a.get()
                 },
                 remove: function() {
                     var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : "default";
-                    return r.a.remove("gindex-".concat("2.0.10", "-").concat(e))
+                    return r.a.remove("gindex-".concat("2.0.11", "-").concat(e))
                 }
             },
             i = o,
@@ -1459,10 +1459,10 @@
                         NODE_ENV: "production",
                         VUE_APP_I18N_LOCALE: "zh-chs",
                         VUE_APP_I18N_FALLBACK_LOCALE: "en",
-                        VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.10/dist/",
-                        VUE_APP_VERSION: "2.0.10",
+                        VUE_APP_CDN_PATH: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.11/dist/",
+                        VUE_APP_VERSION: "2.0.11",
                         VUE_APP_G2INDEX_VERSION: "1.1.2",
-                        BASE_URL: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.10/dist/"
+                        BASE_URL: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.11/dist/"
                     }).VUE_APP_TITLE || "GoIndex";
                     window.document.title = "".concat(t).concat(e ? " | ".concat(e) : "")
                 },
@@ -1550,7 +1550,7 @@
         "use strict";
 
         function n(e) {
-            var t = "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.10/dist/";
+            var t = "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme@v2.0.11/dist/";
             return t + e
         }
         a.d(t, "a", (function() {
