@@ -1,0 +1,61 @@
+{
+  "_name": "Bahasa Indonesia",
+  "languages": "Bahasa",
+  "index": "Beranda",
+  "folder": "Folder",
+  "notify": {
+    "title": "Pemberitahyan"
+  },
+  "copy": {
+    "text": "Salin",
+    "success": "Berhasil menyalin",
+    "error": "Gagal menyalin"
+  },
+  "list": {
+    "view": {
+      "gridMode": "Mode Kisi",
+      "listMode": "Mode Daftar"
+    },
+    "auth": "Direktori dienkripsi, silahkan masukkan sandi",
+    "title": {
+      "file": "Berkas",
+      "moditime": "Waktu Dimodifikasi",
+      "size": "Ukuran",
+      "operation": "Tindakan"
+    },
+    "loading": "Memuat...",
+    "opt": {
+      "copy": "Salin tautan",
+      "newTab": "Buka tab baru",
+      "download": "Unduh"
+    },
+    "total": "Total",
+    "item": "barang"
+  },
+  "search": {
+    "placeholder": "Cari sesuatu..."
+  },
+  "page": {
+    "video": {
+      "play": "Mulai",
+      "download": "Unduh",
+      "link": "Tautan unduh"
+    },
+    "text": {
+      "loading": "Memuat..."
+    }
+  },
+  "setting": {
+    "clear": {
+      "text": "Bersihkan cache",
+      "success": "Pembersihan cache berhasil"
+    }
+  },
+  "checkVersion": {
+    "tips": "Veri baru terdeteksi, <a href='${url}'>cek sekarang!</a>"
+  },
+  "error": {
+    "shortcut_not_down": "Pintasan tidak dapat dibuka/diunduh",
+    "401": "Tidak sah, silahkan masuk"
+  }
+}
