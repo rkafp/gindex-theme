@@ -68,7 +68,7 @@ var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/rkafp/gindex-theme",
   // 主题版本号
   version: "2.0.9",
-  //可选默认系统语言:en/zh-chs/zh-cht
+  //可选默认系统语言:en/id/zh-cht
   languages: "en",
   render: {
     /**
