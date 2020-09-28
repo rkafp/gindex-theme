@@ -19,7 +19,7 @@ var authConfig = {
   ],
 };
 var themeOptions = {
-  // en/id/zh-cht
+  // en/id/zh-chs/zh-cht
   languages: "en",
   render: {
     head_md: true,
